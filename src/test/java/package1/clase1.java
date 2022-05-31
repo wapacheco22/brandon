@@ -37,21 +37,6 @@ public class clase1 {
 	
 	public void test9() {
 		System.out.println("siuuuuu");
-	}
-
-
-	public void test9() {
-		System.out.println("siuuuuu");
-	}
-
-
-	public void test9() {
-		System.out.println("siuuuuu");
-	}
-
-
-	public void test9() {
-		System.out.println("siuuuuu");
-	}
+	} //asd
 
 }
