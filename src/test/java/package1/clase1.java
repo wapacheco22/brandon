@@ -29,7 +29,29 @@ public class clase1 {
 		int [] result = {1};
 		
 		return result;
+
+
 	}
 	
-	//TEST4 TEST 4 TEST 4 
+	
+	
+	public void test9() {
+		System.out.println("siuuuuu");
+	}
+
+
+	public void test9() {
+		System.out.println("siuuuuu");
+	}
+
+
+	public void test9() {
+		System.out.println("siuuuuu");
+	}
+
+
+	public void test9() {
+		System.out.println("siuuuuu");
+	}
+
 }
