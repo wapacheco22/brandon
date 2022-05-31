@@ -40,11 +40,16 @@ public class clase1 {
 	}
 
 //cambio
-	
-	
-	//YASSIR YASSIR YASSIR
- //BRANDON BRANDON BRANDON
-	//asd
+
+	// YASSIR YASSIR YASSIR
+	// BRANDON BRANDON BRANDON
+	// asd
+
+	private void method() {
+		System.out.println("private1");
+
+	}
+
 	
 	
 	
