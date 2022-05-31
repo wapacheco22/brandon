@@ -45,4 +45,10 @@ public class clase1 {
 	//YASSIR YASSIR YASSIR
  //BRANDON BRANDON BRANDON
 	//asd
+	
+	
+	
+	public static void print() {
+		System.out.println("Walter's last test");
+	} 
 }
