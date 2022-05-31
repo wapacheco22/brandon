@@ -7,6 +7,8 @@ public class clase1 {
 		System.out.println("123456");
 
 	}
+	
+	
 
 	public void getWhileLoopResult(int minNum, int maxNum) {
 
@@ -16,5 +18,16 @@ public class clase1 {
 			minNum++;
 		}
 
+	}
+	
+	public static void test3() {
+		System.out.println("TEST3");
+		
+	}
+	
+	public static int [] num () {
+		int [] result = {1};
+		
+		return result;
 	}
 }
