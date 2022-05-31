@@ -7,4 +7,14 @@ public class clase1 {
 		System.out.println("123456");
 
 	}
+
+	public void getWhileLoopResult(int minNum, int maxNum) {
+
+		while (minNum <= maxNum) {
+
+			System.out.println(minNum);
+			minNum++;
+		}
+
+	}
 }
